@@ -1,0 +1,63 @@
+body {
+    background-image: url("/bg_dua.JPG");
+    color: whitesmoke;
+    font-family: 'Rubik Doodle Shadow';
+
+
+}
+
+.btn {
+    color: white;
+}
+
+h1 {
+    margin-top: 10%;
+    font:optional;
+    font-weight: bolder ;
+    color: whitesmoke;
+    text-shadow: 3px 2px 1px black;
+}
+
+h2 {
+    font: optional;
+    font-weight: bolder;
+    color: whitesmoke;
+    text-shadow: 3px 2px 1px black;
+    text-align: center;
+
+}
+
+.btn {
+    color: white;
+    background-color: palevioletred;
+    font-weight: bolder;
+}
+
+.card {
+    background-color: violet;
+    margin-top: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+.card-title {
+    font-size: larger;
+    text-align: center;
+    color: purple;
+   font-weight: bolder;
+
+}
+
+.card-body {
+    color : purple;
+    font-weight: bolder;
+    background-color: white;
+}
+
+.form-control {
+    background-color: violet;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 2px 2px 1px purple;
+}
